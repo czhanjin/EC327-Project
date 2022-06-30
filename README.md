@@ -8,6 +8,8 @@ For our EC327 project, we will make an improved version of the OG Snake'97 game.
 2. To run the code, input the following binary file in the terminal from step 1:
 
       **main**
+3. Inside the terminal, type **Y** for 2 players and **N** for 1 player.
+4. Enjoy the game!
 
 **Note:** in order to successfully compile the game, user must: 
 1. install [sfml](https://www.sfml-dev.org/tutorials/2.5/start-vc.php).
