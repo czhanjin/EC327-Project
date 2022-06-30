@@ -183,9 +183,9 @@ int main() {
   // Music choice: FCB Barca anthem (best soccer team in the world (subjective)).
   sf::Music music;
   if (!music.openFromFile("music.ogg")) {
-    return -1; // error
-    music.play();
+    return -1;
   }
+    music.play();
   // Score counts the size of the snakes (initial size == 6).
   char var;
   int score1 = -6;
