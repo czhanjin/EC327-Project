@@ -315,7 +315,7 @@ int main() {
             }
         }
 
-   ////// draw  ///////
+    // draw the snakes. 
     window.clear();
     // Set position of the snakes. 
     for (int i=0; i<w; i++) 
