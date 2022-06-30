@@ -12,6 +12,6 @@ For our EC327 project, we will make an improved version of the OG Snake'97 game.
 4. Enjoy the game!
 
 **Note:** in order to successfully compile the game, user must: 
-1. install [sfml](https://www.sfml-dev.org/tutorials/2.5/start-vc.php).
+1. Install [sfml](https://www.sfml-dev.org/tutorials/2.5/start-vc.php).
 2. Import image directory, music file and conio header file and the main.cpp c++ file and place them inside the same directory found in the [Project Main Page](https://github.com/czhanjin/EC327-Project).
 3. Refer to the [video](https://www.youtube.com/watch?v=B2iaftpaee8) for a description of our game. 
